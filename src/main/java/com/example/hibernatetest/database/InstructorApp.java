@@ -1,7 +1,5 @@
 package com.example.hibernatetest.database;
 
-import java.util.List;
-
 public class InstructorApp {
 
     public static void main(String[] args) {
